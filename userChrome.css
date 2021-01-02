@@ -29,7 +29,7 @@ toolbox#navigator-toolbox  {
 
 .tabbrowser-tab {
     margin-right: 0px !important;
-    height: 30px !important;
+    height: 35px !important;
 }
 
 .tabbrowser-tab:not([visuallyselected="true"]), .tabbrowser-tab:-moz-lwtheme {
