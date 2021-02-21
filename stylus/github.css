@@ -35,7 +35,7 @@
 @var color text-secondary "Text Secondary" #e5e9f0
 @var color scrollbar-thumb "Scrollbar Thumb" #828bb830
 @var color scrollbar-track "Scrollbar Track" #1b1d2c
-@var color selection-bg "Selection Bg" #585e74
+@var color selection-bg "Selection Bg" #3b4b58
 @var color selection-fg "Selection Fg" #ffffff
 @var color aqua-desaturated "Aqua Desaturated" #7AB5D0
 @var color blue-desaturated "Blue Desaturated" #A1B5E0
@@ -77,14 +77,14 @@
 @var color purple-transparent "Purple Transparent" #c597f911
 @var color red-transparent "Red Transparent" #ff537033
 @var color red-alt-transparent "Red Alt Transparent" #FF98A433
-@var color teal-transparent "Teal Transparent" #4fd6be33
+@var color teal-transparent "Teal Transparent" #3b4b5830
 @var color yellow-transparent "Yellow Transparent" #ffc77733
-@var color base-1 "Base 1" #292b34
-@var color base-2 "Base 2" #30333d
-@var color base-3 "Base 3" #292b34
-@var color base-4 "Base 4" #30333d
-@var color base-5 "Base 5" #292b34
-@var color base-6 "Base 6" #585e74
+@var color base-1 "Base 1" #29343d
+@var color base-2 "Base 2" #1a2026
+@var color base-3 "Base 3" #29343d
+@var color base-4 "Base 4" #1a2026
+@var color base-5 "Base 5" #29343d
+@var color base-6 "Base 6" #3b4b58
 @var color base-7 "Base 7" #07667855
 @var color base-8 "Base 8" #383e5c
 @var color base-9 "Base 9" #444a73
