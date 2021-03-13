@@ -10,6 +10,8 @@ My css is messy, if you find a problem and figure out how to improve my code, pl
 
 [This article](https://www.howtogeek.com/334716/how-to-customize-firefoxs-user-interface-with-userchrome.css/) provides a good overview about how you figure out where you have to move the files for modifying firefox.
 
+You should also set Firefox to "compact" and "dark mode". Those two options are available under menu > customize.
+
 ### Stylus
 
 Install the [stylus firefox extension](https://addons.mozilla.org/en-US/firefox/addon/styl-us/).
