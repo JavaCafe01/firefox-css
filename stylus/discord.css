@@ -7,19 +7,17 @@
 
 **/
 
-@import url(https://raw.githack.com/hormelcookies/dark-discord/hormelcookies-patch-1/src/source.css);
-@import url('https://gibbu.github.io/BetterDiscord-Themes/HorizontalServerlist/base.css');
-@import url('https://gibbu.github.io/BetterDiscord-Themes/addons/bottomhsl.css');
+@import url('https://raw.githack.com/hormelcookies/dark-discord/hormelcookies-patch-1/src/source.css');
 @import url('https://tropix126.github.io/BetterDiscordStuff/materialcons/base.css');
 
 .theme-dark,
 .theme-light,
 :root {
    --background-primary: #1a2026 !important;
-   --background-secondary: #1a2026 !important;
+   --background-secondary: #29343d !important;
    --background-secondary-alt: #3b4b58 !important;
-   --background-tertiary: #1a2026 !important;
-   --background-accent: #29343d !important;
+   --background-tertiary: #161d23 !important;
+   --background-accent: #1d252b !important;
    --background-floating: black !important;
    --background-modifier-hover: rgba(255, 255, 255, 0.01) !important;
    --background-modifier-active: rgba(255, 255, 255, 0.03) !important;
@@ -46,4 +44,51 @@
    --toast-contents: var(--background-secondary) !important;
    --toast-box-shadow: rgba(0, 0, 0, 0.2) !important;
    --toast-border: var(--background-tertiary) !important;
+}
+
+.searchBar-3dMhjb {
+  width: 28px;
+  transition: width 0.1s ease-in-out;
+}
+
+
+.sidebar-2K8pFh{
+  width:0px;
+  transition:.5s ease;
+}
+.platform-win .base-3dtUhz{
+  border-radius: 8px 0 0;
+}
+.wrapper-1Rf91z:hover+.base-3dtUhz>.content-98HsJk>.sidebar-2K8pFh{
+  width:240px;
+}
+.sidebar-2K8pFh:hover{
+  width:240px;
+}
+
+/* Members List Anims */
+.membersWrap-2h-GB4{
+    min-width: unset;
+}
+.members-1998pB{
+    max-width: 65px;
+    min-width: 65px;
+    transition: .3s ease;
+    background-color: #161d23;
+}
+
+.members-1998pB, .members-1998pB>div{
+    background-color:#161d23
+}
+
+.members-1998pB:hover{
+    max-width: 240px;
+    min-width: 240px;
+}
+div:not(:hover)>.membersGroup-v9BXpm{
+    height: 0px;
+    padding: 0%;
+}
+div:not(:hover)>.members-1998pB>div{
+    padding-top: 10px;
 }
