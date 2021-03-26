@@ -12,9 +12,5 @@ My css is messy, if you find a problem and figure out how to improve my code, pl
 
 ![oof1](https://github.com/JavaCafe01/firefox-css/blob/master/screenshots/discord.png)
 
-![oof2](https://github.com/JavaCafe01/firefox-css/blob/master/screenshots/github.png)
-
-![oof3](https://github.com/JavaCafe01/firefox-css/blob/master/screenshots/rust.png)
-
 ## Acknowledgments
 [firefox-review](https://github.com/fellowish/firefox-review)
